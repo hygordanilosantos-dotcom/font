@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-around;
+    margin: top 150px; ;
+}
+h1{
+    font-size: 100px;
+    
+}
+img{
+    width: 170px;
+
+}
+div{
+
+
+}
